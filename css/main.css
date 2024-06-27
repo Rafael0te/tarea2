@@ -120,7 +120,7 @@ justify-content: space-between;
   display: flex;
   justify-content: flex-end;
 }
-.menu_d .menu_imagen {
+.menu_imagen {
   width:55%;
 }
 .menu_d img {
@@ -172,6 +172,7 @@ justify-content: space-between;
 }
 dt {
   font-weight: bold;
+  width: 80px;
 }
 dd {
   margin-bottom: 20px;
